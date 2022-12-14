@@ -1,2 +1,4 @@
 # odin-landing-page
-My Odin Project Landing page.
+Welcome! This landing page should demonstrate a competency is basic CSS up to Flexbox.
+
+It's probably going to be a little silly and a little ugly.
